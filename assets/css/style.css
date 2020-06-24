@@ -2419,6 +2419,12 @@ body.has-loading-screen.loading-done #brand-navigation {
     background-position: top center;
 }
 
+@media (max-width: 35.9375rem) {
+    #ts-hero .ts-background-image {
+        background-position: top right;
+    }
+}
+
 /*-------------------------------------------
   -- Navbar
 -------------------------------------------*/
